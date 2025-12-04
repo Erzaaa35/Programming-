@@ -20,7 +20,7 @@
 ![5e43faa1-a667-47ab-8413-dfda2cc25ce2](https://github.com/user-attachments/assets/b08eef66-ff5c-49d8-8b6d-07918e785143)
 
 
--✅5. git add - добавление файла в stage
+✅5. git add - добавление файла в stage
 
 
 
