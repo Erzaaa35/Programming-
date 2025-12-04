@@ -1,4 +1,4 @@
 # Лабораторная работа №9: Git
-![f99cea3d43d96ba9482e7a8e83b8245c](https://github.com/user-attachments/assets/be5754ef-33b5-461a-8e0f-7a14605fa962)
+<img width="1124" height="375" alt="image" src="https://github.com/user-attachments/assets/2abd98d2-6b39-4229-883d-7a94f80af63a" />
 
 ## Оценка 3:
