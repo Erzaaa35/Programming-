@@ -296,8 +296,12 @@ Git показывает разные diff для staged и unstaged измен�
 
 ![c2540cc5-a531-4c63-acf8-cd361632d00a](https://github.com/user-attachments/assets/ca96c7e8-3bbe-47fd-86cc-8f39d40f8af4)
 
+#
+
+![74e2f1bacdfc7d2079c71039a4516a14](https://github.com/user-attachments/assets/440209ba-2f86-42a0-b048-8584835f021d)
 
 
+## Работа с ветками и ff-merge
 
 
 
