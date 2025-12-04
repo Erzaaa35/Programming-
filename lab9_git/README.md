@@ -4,5 +4,6 @@
 ## Оценка 3:
 
 1. проверка текущей ветки
+
 ![8cb26ddc-0c7b-48be-b6f7-54b806fce2e3](https://github.com/user-attachments/assets/b3fdcaa2-1f3c-4f1c-84ed-cf2b71fd9fdb)
 
