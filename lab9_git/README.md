@@ -303,7 +303,95 @@ Git показывает разные diff для staged и unstaged измен�
 
 ## Работа с ветками и ff-merge
 
+✅1. Создание файла greeting.txt, индексация и коммит
 
+![734e22ea-baee-4081-958d-05a673f5506d](https://github.com/user-attachments/assets/59cb908d-6c16-4fc4-8e60-d79af9c16c14)
+
+
+✅2. Добавление слова "hello", индексация и коммит
+
+![afc6c21f-dd2d-4da5-857c-6efdf6d2c3dc](https://github.com/user-attachments/assets/cd90afc5-35e2-4ea9-8ceb-a8b07e3908e6)
+
+
+✅3. Создание ветки feature/uppercase
+
+<img width="786" height="39" alt="image" src="https://github.com/user-attachments/assets/bf1578e9-03e2-4e64-8f10-978b13512f04" />
+
+
+✅4. Переключение на ветку feature/uppercase
+
+
+
+✅5. Проверка git status
+
+![516c689e-c106-4dbc-89f2-5dc8bee9d23f](https://github.com/user-attachments/assets/f8b57fb4-e31f-4496-a0d3-e4d0e357e4f7)
+
+
+✅6. Редактирование greeting.txt в верхний регистр ("HELLO")
+
+<img width="1116" height="24" alt="image" src="https://github.com/user-attachments/assets/b1a2d110-e77c-4b82-a3d8-b4e51947f6bc" />
+
+
+✅7. Добавление и коммит изменений
+
+<img width="1124" height="112" alt="image" src="https://github.com/user-attachments/assets/5f9d1b7e-464e-4640-9a07-317bc4698994" />
+
+
+✅8. Проверка git branch
+
+![352f9251-bf20-4f23-ad36-8363aa63080f](https://github.com/user-attachments/assets/22f75c25-3fac-4871-98ef-c9c18542c412)
+
+
+✅9. git log --oneline --graph --all - просмотр графа
+
+![1e48e7cc-95a8-4809-a0f4-ed4fa33e37c1](https://github.com/user-attachments/assets/a778b849-676d-4736-9c49-a3648cba608e)
+
+
+✅10. Переключение на главную ветку
+
+![c5b6ce30-303d-4657-9c21-341713a56b21](https://github.com/user-attachments/assets/03a37db6-3a9f-499e-821a-5752431aff5e)
+
+
+✅11. cat - проверка содержимого greeting.txt
+
+![cff0eb7a-9ad0-4066-87e1-429b07998cf9](https://github.com/user-attachments/assets/2a3c6a34-083e-4d61-a4df-c8f70852e892)
+
+
+✅12. Сравнение веток
+
+![9f148679-cb5b-497f-b86e-f7bddbcc9bf0](https://github.com/user-attachments/assets/ddf61fed-4347-4be4-91fb-8553731d05b0)
+
+
+✅13. Объединение веток с разрешением конфликта:
+
+![038f97bb-208b-4f67-ab0c-034470d0628b](https://github.com/user-attachments/assets/12314ac6-04fe-426a-9d81-363c5d6ae1e9)
+
+
+✅14. cat - проверка содержимого после слияния
+
+![1743fd84-5856-47e6-8563-b6612f3a4c23](https://github.com/user-attachments/assets/fee94034-d6c8-406a-85c7-0a64acb8c4b8)
+
+
+✅15. Удаление ветки feature/uppercase
+
+![20c13fd9-34b3-4260-a84b-c9675501bfba](https://github.com/user-attachments/assets/e5d06000-b5ac-43a1-92b8-434f9d55a5c0)
+
+
+✅16. Слияние ветки mybranch в master:
+
+
+
+✅17. git log --oneline --graph --all - анализ истории
+
+![383db2e7-2bca-4d96-8658-2e37c9cd19a5](https://github.com/user-attachments/assets/a9bf304d-1c99-4b82-adec-0bc09fb0b491)
+
+
+✅18. git push - отправка изменений на удаленный репозиторий
+
+![537af4a8-0eeb-4f32-a8fd-386d2450a7c8](https://github.com/user-attachments/assets/7066b57d-fe60-49cd-bafd-50ada9ca510a)
+
+
+✅19. Создан и отправлен данный отчет
 
 
 
