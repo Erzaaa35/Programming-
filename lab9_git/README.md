@@ -62,15 +62,15 @@
 
 ✅15. Создан коммит
 
-![b8dab4d8-9ecc-4be8-b2bd-66d298dba7f4](https://github.com/user-attachments/assets/7337c47c-117b-40bb-8d84-0350e32f439e)
 
-
-![795e6bae-8e44-4d56-9644-ff5be30d6c33](https://github.com/user-attachments/assets/29693dfd-7738-4340-be11-a54aad7c6f0c)
 
 
 ✅16. Проверен status и log
 
+![b8dab4d8-9ecc-4be8-b2bd-66d298dba7f4](https://github.com/user-attachments/assets/7337c47c-117b-40bb-8d84-0350e32f439e)
 
+
+![795e6bae-8e44-4d56-9644-ff5be30d6c33](https://github.com/user-attachments/assets/29693dfd-7738-4340-be11-a54aad7c6f0c)
 
 ✅17. Добавление и коммит последнего изменения
 
