@@ -4,7 +4,7 @@
 
 ## Задание 1. Создание потока
 
-<img width="736" height="782" alt="image" src="blob:https://web.telegram.org/c6b96e4e-8223-4bc9-8a10-4e5acccc176a" />
+![Задание 1](screenshots/1.jpg)
 
 ## Задание 2. Ожидание потока
 
