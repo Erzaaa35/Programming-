@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUTIL_LIB.a CMakeFiles/UTIL_LIB.dir/src/sneakers.c.o
+/usr/bin/ranlib libUTIL_LIB.a

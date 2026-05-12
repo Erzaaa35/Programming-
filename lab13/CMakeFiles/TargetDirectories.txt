@@ -1,0 +1,4 @@
+/root/programming/lab13/CMakeFiles/UTIL_LIB.dir
+/root/programming/lab13/CMakeFiles/main.dir
+/root/programming/lab13/CMakeFiles/edit_cache.dir
+/root/programming/lab13/CMakeFiles/rebuild_cache.dir
