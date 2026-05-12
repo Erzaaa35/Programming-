@@ -1,4 +1,6 @@
-# Лабораторная 17
+# Лабораторная 17 Знакомство с POSIX потоками
+
+![POSIX потоки](https://i.pinimg.com/736x/72/b2/fd/72b2fd1c86cfaa0aef552de125e8fce1.jpg)
 
 ---
 
